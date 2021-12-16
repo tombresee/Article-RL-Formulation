@@ -49,7 +49,7 @@ Table
      - Row 2, column 3
    * - α
      - Greek small letter alpha
-     - &alpha;
+     - `&alpha;`
 
 
 
