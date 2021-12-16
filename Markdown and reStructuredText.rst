@@ -14,7 +14,7 @@ Markdown and reStructuredText
    :header-rows: 1
    :stub-columns: 1
    :align: center
-   :widths: 20, 20, 20, 20, 20
+   :widths: 20, 20, 20, 20, 30
 
    * - Classification
      - Restricted More 
