@@ -48,9 +48,9 @@ Table
      - Row 2, column 2
      - Row 2, column 3
    * - α
-     - `\alpha`
-     - abc
-    
+     - Greek small letter alpha
+     - &alpha;
+
 
 
 
