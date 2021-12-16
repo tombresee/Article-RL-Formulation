@@ -33,8 +33,7 @@ Table
 
 .. list-table:: Title
    :widths: 25 25 50
-   :header-rows: 1
-
+   :header-rows: 10
    * - H1
      - H2
      - H3
