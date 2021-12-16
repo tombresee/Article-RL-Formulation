@@ -44,8 +44,31 @@ Table
    * - Row 2, column 1
      - Row 2, column 2
      - Row 2, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
 
-    
+
+
+
+#####Lowercase:
+LaTex      |   | LaTex     |   |
+----------:|--:|----------:|--:|
+`\alpha`   | α | `\nu`     | ν |
+`\beta`    | β | `\kappa`  | κ |
+`\gamma`   | γ | `\lambda` | λ |
+`\delta`   | δ |  `\mu`    | µ |    
+`\epsilon` | ϵ | `\zeta`   | ζ |
+`\eta`     | η | `\theta`  | θ |
+`\iota`    | ι | `\xi`     | ξ |
+`\pi`      | π | `\rho`    | ρ |
+`\sigma`   | σ | `\tau`    | τ |
+`\upsilon` | υ | `\phi`    | φ |
+`\chi`     | χ | `\psi`    | ψ |
+`\omega`   | ω |           |   |
+
+
+
 
 |
 |
