@@ -1,6 +1,41 @@
 
-Reinforcement Machine Learning Capstone
-#########################################
+Python Formulation - RL
+############################
+
+
+|
+|
+
+
+
+
+Problem 
+~~~~~~~~~
+
+
+
+Q1
+
+
+Q1
+
+
+
+
+
+|
+|
+
+Table
+~~~~~~~~~
+
+
+
+
+
+
+
+
 
 
 |
@@ -27,9 +62,8 @@ Reference Links
 * Methane - https://github.com/sanjayms01/methane/tree/master/pipelines
 
 
-
-
-
+|
+|
 |
 |
 |
