@@ -3,33 +3,6 @@ Markdown and reStructuredText
 
 
 
-+-------+----------+------+
-| Table Headings   | Here |
-+-------+----------+------+
-| Sub   | Headings | Too  |
-+=======+==========+======+
-| cell  | column spanning |
-+ spans +----------+------+
-| rows  | normal   | cell |
-+-------+----------+------+
-| multi | * cells can be  |
-| line  | * formatted     |
-| cells | * paragraphs    |
-| too   |                 |
-+-------+-----------------+
-
-
-+------+---------------+
-| Item | Character     |
-+======+===============+
-| 1    | Puss in Boots |
-+------+---------------+
-| 2    | Cinderella    |
-+------+---------------+
-
-
-
-
 
 .. list-table::
    :class: longtable
@@ -49,17 +22,6 @@ Markdown and reStructuredText
      - Row1 col4
      - Row1 col5
 
-
-
-
-
-============  =====================
-Event               Score variation
-============  =====================
-Event 1                        +100
-Event 2                         -25
-Event 3                        -400
-============  =====================
 
 
 
