@@ -1,5 +1,70 @@
 Markdown and reStructuredText
 =============================
+
+
+
++-------+----------+------+
+| Table Headings   | Here |
++-------+----------+------+
+| Sub   | Headings | Too  |
++=======+==========+======+
+| cell  | column spanning |
++ spans +----------+------+
+| rows  | normal   | cell |
++-------+----------+------+
+| multi | * cells can be  |
+| line  | * formatted     |
+| cells | * paragraphs    |
+| too   |                 |
++-------+-----------------+
+
+
++------+---------------+
+| Item | Character     |
++======+===============+
+| 1    | Puss in Boots |
++------+---------------+
+| 2    | Cinderella    |
++------+---------------+
+
+
+
+
+
+.. list-table::
+   :class: longtable
+   :header-rows: 1
+   :stub-columns: 1
+   :align: left
+   :widths: 20, 20, 20, 20, 20
+
+   * - Classification
+     - Restricted
+     - Company |br| Confidential
+     - Internal Use Only
+     - Public
+   * - Row1 col1
+     - Row1 col2
+     - Row1 col3 
+     - Row1 col4
+     - Row1 col5
+
+
+
+
+
+============  =====================
+Event               Score variation
+============  =====================
+Event 1                        +100
+Event 2                         -25
+Event 3                        -400
+============  =====================
+
+
+
+
+
 GitHub supports several lightweight markup languages for documentation;
 the most popular ones (generally, not just at GitHub) are **Markdown**
 and **reStructuredText**.  Markdown is sometimes considered easier to
