@@ -4,16 +4,21 @@ Markdown and reStructuredText
 
 
 
+
+
+
+
+
 .. list-table::
    :class: longtable
    :header-rows: 1
    :stub-columns: 1
-   :align: left
+   :align: center
    :widths: 20, 20, 20, 20, 20
 
    * - Classification
      - Restricted
-     - Company |br| Confidential
+     - Company Confidential
      - Internal Use Only
      - Public
    * - Row1 col1
