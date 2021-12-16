@@ -17,7 +17,7 @@ Markdown and reStructuredText
    :widths: 20, 20, 20, 20, 20
 
    * - Classification
-     - Restricted
+     - Restricted More 
      - Company Confidential
      - Internal Use Only
      - Public
